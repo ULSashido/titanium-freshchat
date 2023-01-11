@@ -1,0 +1,226 @@
+
+/*Localizable.strings
+  Freshchat
+
+  Copyright (c) 2015 Freshdesk. All rights reserved.
+
+ Solution Categories*/
+"faq_title_text" = "FAQ";
+"faq_close_button_text" = "Fermer";
+"contact_us_button_text" = "Contactez-nous";
+"faq_feature_not_enabled_text" = "La fonctionnalité FAQ est désactivée";
+
+/*Article UpVote DownVote*/
+"article_vote_prompt_text" = "Cette FAQ vous a-t-elle été utile ?";
+"article_vote_prompt_yes_button_text" = "Oui";
+"article_vote_prompt_no_button_text" = "Non";
+
+/*Article Vote thank you prompt*/
+"thank_you_prompt_text" = "Merci pour vos commentaires!";
+"thank_you_prompt_contact_us_button_text" = "Vous cherchez toujours de l'aide ? Parle-nous";
+
+/*Article Detail*/
+"offline_missing_content_text" = "Veuillez vous connecter à Internet pour voir le contenu multimédia disponible sur cet article.";
+
+/*JWT*/
+"jwt_failure_alert_message" = "Oops! Quelque chose s'est mal passé. Veuillez relancer l'écran.";
+
+/*No Internet Connectivity*/
+"offline_internet_message" = "Euh-euh. Pas de connexion Internet";
+"offline_internet_sub_message" = "S'il vous plait, vérifiez votre connexion internet.";
+
+/*Channels*/
+"channels_title_text" = "Conversations";
+"channels_close_button_text" = "Fermer";
+"channels_feature_not_enabled_text" = "La fonction de conversation est désactivée";
+
+/*Restoring view*/
+"restore_close_button_text" = "Fermer";
+
+/*Message UI*/
+"message_placeholder_text" = "Tapez un message";
+"messages_close_button_text" = "Fermer";
+"send_button_text" = "Envoyer";
+"messages_agent_label_text" = "Soutien";
+"default_action_button_text" = "Voir";
+"default_video_button_text" = "Regarder la vidéo";
+"default_file_button_text" = "Fichier ouvert";
+"audio_message_title" = "Message audio";
+"picture_message_title" = "Image";
+"picture_message_upload_error" = "Erreur lors du chargement de l'image. Image non trouvée";
+"audio_recording" = "Enregistrement audio";
+"audio_recording_stopped" = "Enregistrement arrêté";
+"audio_recording_permission_denied" = "Autorisation manquante. Veuillez activer l'autorisation du microphone sous Paramètres.";
+"cancel_audio_recording_alert" = "Voulez-vous vraiment annuler l'enregistrement ?";
+"message_unsent_title" = "Votre message n'a pas été envoyé";
+"message_unsent_info_text" = "Nous n'avons pas pu envoyer vos messages pour le moment. Vérifiez Internet ou réessayez plus tard";
+"server_error_info_text" = "Problème d'envoi de message. Veuillez réessayer plus tard.";
+
+/*Account delete messages for actions*/
+"error_message_account_not_active_text" = "Cette rubrique n'est plus disponible";
+"error_message_account_not_active_cancel" = "Annuler";
+
+/*Unsupported message content*/
+"message_unsupported_content" = "Contenu de message non pris en charge";
+
+/*Posting audio message alerts*/
+"short_audio_alert_title" = "Votre message est trop court.";
+"short_audio_alert_description_text" = "L'enregistrement audio est trop court. Veuillez réessayer";
+"long_audio_alert_title" = "Trop longtemps vous ne trouvez pas ?";
+"long_audio_alert_description_text" = "Votre message audio dure plus de 2 minutes. Voulez-vous vraiment envoyer ?";
+"long_audio_alert_post_button_text" = "Envoie-le";
+
+/*Search View Place Holder*/
+"search_placeholder_text" = "FAQ sur la recherche";
+"empty_channel_text" = "Oups, aucun message ici !";
+"empty_faq_text" = "Pardon! Il n'y a pas de FAQ disponible";
+"loading_channel_text" = "Chargement des messages";
+"restoring_channel_text" = "Restauration des messages";
+"loading_faq_text" = "Chargement";
+"min_character_search_text" = "Minimum 3 caractères nécessaires pour rechercher";
+
+/*New Unread Messages*/
+"single_new_message_text" = "%d nouveau message";
+"multiple_new_messages_text" = "%d nouveaux messages";
+
+/*New Message divider*/
+"new_messages_divider_text" = "Nouveaux messages";
+
+/*Camera Unavailable alert*/
+"camera_unavailable_title" = "Votre caméra n'est pas disponible";
+"camera_unavailable_description" = "Oups! Votre appareil n'a pas de caméra ou la caméra n'est pas disponible";
+"camera_unavailable_ok_button_text" = "D'ACCORD";
+"camera_permission_denied" = "Les autorisations de l'appareil photo sont requises pour capturer des images";
+"photo_library_permission_denied" = "L'autorisation de la photothèque est requise pour accéder aux photos";
+"camera_permission_alert_cancel" = "Annuler";
+"photo_library_permission_alert_cancel" = "Annuler";
+
+/*Picture attached*/
+"pic_msg_attachment_close_btn" = "Dos";
+"pic_msg_attachment_title_text" = "Photo";
+
+/*Image Attachment*/
+"msg_attachment_prompt_title" = "La taille maximale du fichier doit être de 20 Mo";
+"image_attachment_cancel_button_text" = "Annuler";
+"image_attachment_select_existing_image" = "Télécharger depuis la galerie";
+"image_attachment_select_new_image" = "Prendre une photo";
+"file_attachment_browse_files" = "Parcourir à partir de fichiers";
+
+/*general*/
+"date_today" = "Aujourd'hui";
+"date_tomorrow" = "Demain";
+
+/*Notifications*/
+"notification_message_default" = "Il y a un message pour vous!";
+
+/*Customer Satisfaction Survey 
+ Yes No Prompt*/
+"chat_resolution_prompt_text" = "Toutes vos préoccupations ont-elles été prises en compte ? ";
+"chat_resolution_prompt_yes_button_text" = "Oui!";
+"chat_resolution_prompt_no_button_text" = "Non";
+"chat_resolution_survey_question_text" = "";
+
+/*Survey prompt*/
+"cust_sat_not_resolved_prompt" = "Comment aurions-nous pu mieux vous aider ?";
+"cust_sat_user_comments_placeholder" = "Commentaires supplémentaires";
+"cust_sat_submit_button_text" = "Envoyer";
+
+/*Message time format*/
+"chat_message_time_today" = "hh: mm un";
+"chat_message_time_this_year_short" = "MMM jj";
+"chat_message_time_this_year_long" = "MMM jj',' hh:mm a";
+"chat_message_time_other_year" = "MMM AAAA";
+
+/*Typically replies*/
+"typically_replies_within_a_minute" = "Répond généralement en une minute";
+"typically_replies_within_x_minutes" = "Répond généralement dans un délai de";
+"typically_replies_within_an_hour" = "Répond généralement en moins d'une heure";
+"typically_replies_within_2_hours" = "Répond généralement dans les 2 heures";
+"typically_replies_within_few_hours" = "Répond généralement en quelques heures";
+"placeholder_minutes" = "minutes";
+
+/*Average replies*/
+"currently_replying_in_a_minute" = "Répond actuellement dans une minute";
+"currently_replying_in_x_minutes" = "Répond actuellement en";
+"currently_replying_in_an_hour" = "Répond actuellement dans une heure";
+"currently_replying_in_2_hours" = "Répond actuellement dans 2 heures";
+"currently_replying_in_few_hours" = "Répond actuellement dans quelques heures";
+
+/*Business hour offline response*/
+"business_hour_offline" = "Nous sommes loin maintenant";
+
+/*Drop Down Fragment*/
+"dropdown_choose_select" = "Cliquez ici pour sélectionner";
+
+/*Carousel*/
+"default_carousel_card_view_btn" = "Voir";
+"default_carousel_card_select_btn" = "Sélectionner";
+"default_carousel_list_preview_text" = "Choisis une option";
+
+/*Calendar*/
+"calendar_find_slots_btn" = "Trouver un créneau";
+"calendar_cancel_invite_btn" = "Pas intéressé";
+"calendar_channel_list_awaiting_confirmation" = "En attente de confirmation de créneau horaire";
+"calendar_view_title" = "Planifier une réunion";
+"calendar_email_description" = "Veuillez nous fournir votre adresse e-mail pour planifier une réunion avec notre équipe";
+"calendar_email_placeholder" = "Entrez votre identifiant de messagerie";
+"calendar_next_btn" = "Suivant";
+"calendar_alert_cancel_title" = "Annuler la réservation";
+"calendar_cancel_alert_description" = "Voulez-vous vraiment annuler cette réservation ?";
+"calendar_cancel_alert_continue_btn" = "Continuez";
+"calendar_cancel_alert_booking_btn" = "Annuler la réservation";
+"calendar_slots_date_format" = "j MMM aaaa";
+"calendar_slots_time_format" = "h: mm un";
+"calendar_slots_session_morning" = "Matin";
+"calendar_slots_session_afternoon" = "Après midi";
+"calendar_slots_session_evening" = "Soirée";
+"calendar_slots_session_night" = "Nuit";
+"calendar_slots_show_more_btn" = "Montre plus";
+"calendar_slots_cancel_btn" = "Annuler";
+"calendar_no_slots_available_text" = "Aucun créneau disponible";
+"calendar_invite_confirm_btn" = "Confirmer";
+"calendar_invite_change_slot_btn" = "Changer d'emplacement";
+"calendar_duration_hour" = "heure";
+"calendar_duration_hours" = "heures";
+"calendar_duration_mins" = "minutes";
+"calendar_invite_banner_view_label" = "Voir";
+"calendar_invite_scheduled" = "Programmé";
+"calendar_invite_failed" = "Échoué";
+"calendar_invite_pending" = "En attente de confirmation";
+"calendar_invite_scheduled_description" = "Rencontre avec notre équipe";
+
+/*Error Pages*/
+"error_text" = "Une erreur est survenue";
+"retry_button_text" = "Retenter";
+"empty_article_text" = "Aucun article trouvé";
+"empty_article_category_text" = "Aucun article trouvé pour '%@'";
+
+/*Pagination*/
+"load_more_text" = "Chargement de plus...";
+"retry_load_more_text" = "Échec du chargement. Cliquer pour réessayer.";
+"internet_retry_load_more_text" = "Pas de connexion Internet. Cliquer pour réessayer.";
+
+/*Translation*/
+"translation_original_message_title" = "Original";
+
+/*Placeholder*/
+"placeholder_phonenumber_text" = "Entrez le numéro de téléphone";
+"placeholder_email_text" = "Entrez l'e-mail";
+"placeholder_number_text" = "Entrer un nombre";
+
+/*Validation Error*/
+"phonenumber_validationerror_text" = "Entrez un numéro de téléphone valide";
+"email_validationerror_text" = "Entrez une adresse email valide";
+"number_validationerror_text" = "Entrez un numéro valide";
+
+/*File attachment*/
+"send_attachment_title_only_image" = "Télécharger une image";
+"send_attachment_title_only_file" = "Télécharger un fichier";
+"send_attachment_title_both_image_and_file" = "Télécharger un fichier/image";
+"file_attachment_error_title" = "Impossible de joindre";
+"file_attachment_unsupported_format_error_message" = "Le format de pièce jointe n'est pas pris en charge";
+"file_attachment_verification_pending_error_title" = "Analyse anti-malware en attente";
+"file_attachment_verification_pending_error_message" = "Le fichier n'est pas encore analysé, cela pourrait endommager votre appareil. Alors téléchargez à votre discrétion";
+"file_attachment_verification_pending_download_option" = "Télécharger";
+"alert_view_ok_title" = "D'accord";
+"alert_view_cancel_title" = "Annuler";
